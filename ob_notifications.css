@@ -363,3 +363,5 @@ ul {
     padding: 0px;
     margin: 0px;
 }
+.np-btn.disabled{display:none;}
+.active.np-btn{font-weight:bold}
