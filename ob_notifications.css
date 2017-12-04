@@ -215,6 +215,10 @@ ul.inbox-pagination li {
     color: #afafaf;
     display: inline-block;
     padding: 5px 15px;
+    text-transform:none;
+}
+.inbox-pagination .np-btn a:hover,.inbox-pagination .np-btn a:active,.inbox-pagination .np-btn a:focus {
+    text-transform:none;
 }
 .mail-option .chk-all input[type="checkbox"] {
     margin-top: 0;
