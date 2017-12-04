@@ -208,7 +208,7 @@ ul.inbox-pagination li {
     display: inline-block;
     padding: 5px 10px;
 }
-.inbox-pagination a.np-btn {
+.inbox-pagination .np-btn a {
     background: none repeat scroll 0 0 #fcfcfc;
     border: 1px solid #e7e7e7;
     border-radius: 3px !important;
@@ -223,7 +223,7 @@ ul.inbox-pagination li {
     border: medium none;
     padding: 0;
 }
-.inbox-pagination a.np-btn {
+.inbox-pagination .np-btn a {
     margin-left: 5px;
 }
 .inbox-pagination li span {
@@ -363,4 +363,3 @@ ul {
     padding: 0px;
     margin: 0px;
 }
- 
